@@ -15,11 +15,11 @@
 # Team Members
 ### The Tech-House team consists of the following members:
 
-1. Amro Al-khazaleh
+1. Omar Hassoneh
 2. Tamara Bani-Ghanim
 3. Bashar Al-Omosh
 4. Iyad Raslan
-5. Omar Hassoneh
+5. Amro Al-khazaleh
 
 #### Each member of our team brings a unique set of skills and experiences to the table. We are committed to working together to provide the best possible experience for our customers.
 
@@ -33,14 +33,10 @@
 * JavaScript
 * React
 * Tailwind
+* Trello
 
-   * **HTML  ![](images/html-5.png)**
-   * **CSS   ![](images/CSS-1.png)**
-   * **JS ![](images/javascript.png)**
-   * **Visual Studio Code ![](images/vs.png)**
-   * **Bootstrap ![](images/bootstrap.png)**
-   * **Figma online tool ![](images/figma2.png)**
-   * **Trello online tool ![](images/trello.png)**   
+##### **📎 Links:**
 
-# Trello
-# Figma[link](https://www.figma.com/file/bigcRkFO0awvGn2Q01gWWx/TechHouse?type=design&node-id=0%3A1&t=nwt088BMOJkVeF5h-1)
+▷ [Trello](https://quiztopia.github.io/Quiztopia/)
+
+▷ [Figma](https://www.figma.com/file/bigcRkFO0awvGn2Q01gWWx/TechHouse?type=design&node-id=0%3A1&t=nwt088BMOJkVeF5h-1)
